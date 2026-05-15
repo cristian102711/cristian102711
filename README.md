@@ -44,7 +44,7 @@ const cristian102711 = {
 - 🤖 **[NeuroDesk](https://github.com/cristian102711/neurodesk)** — Plataforma SaaS multi-herramienta de IA con chat, resúmenes e imágenes. Monetización con Mercado Pago vía Webhooks.
 - 💳 **[CardsVirtual](https://github.com/cristian102711/CardsVirtual)** — SaaS de tarjetas digitales con QR dinámico, panel admin y analytics. 81 deployments en producción.
 - 🛒 **[PowerPlay](https://github.com/cristian102711/power-play-react)** — E-commerce con autenticación Supabase, carrito asíncrono y CI/CD integrado.
-- 🎫 **[Sorteo San Valentín](https://github.com/cristian102711)** — Sistema asíncrono dockerizado para alto volumen de concurrencia. Django + Vue 3 + Celery + Redis.
+
 
 ---
 
